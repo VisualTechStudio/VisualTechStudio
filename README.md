@@ -13,9 +13,9 @@
 
 ### 👥 Team Members
 <div align="center">
-  <img src="./ShayneHui.ppg" width="100" />
+  <img src="./ShayneHui.png" width="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./KL_Xydwg01.ppg" width="100" />
+  <img src="./KL_Xydwg01.png" width="100" />
   <br />
   <strong> ShayneHui</strong>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
