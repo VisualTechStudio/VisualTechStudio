@@ -10,4 +10,17 @@
 ### 👾 Our Skill Set
 ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,vim,obsidian,ps,ai,github,gitlab,githubactions,docker,kubernetes,linux,nginx,cloudflare,wordpress,elasticsearch,mongodb,mysql,redis,kotlin,c,cpp,go,py,dotnet,html,css,bash,md&theme=dark)
 
+
+### 👥 Team Members
+<div align="center">
+  <img src="./ShayneHui.ppg" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./KL_Xydwg01.ppg" width="100" />
+  <br />
+  <strong> ShayneHui</strong>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <strong> KL_Xydwg01</strong>
+</div>
+
+
 </div>
