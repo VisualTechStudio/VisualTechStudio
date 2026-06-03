@@ -18,7 +18,21 @@
   <strong>KL_Xydwg01</strong>
 </div>
 
+<br>
+
 ### 👾 Our Skill Set
 ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,vim,obsidian,ps,ai,github,gitlab,githubactions,docker,kubernetes,linux,nginx,cloudflare,wordpress,elasticsearch,mongodb,mysql,redis,kotlin,c,cpp,go,py,dotnet,html,css,bash,md&theme=dark)
+
+<br>
+
+### 📦 Our Projects
+
+<a href="https://www.star-history.com/?repos=VisualTechStudio%2FVTStudioToolBox%2CVisualTechStudio%2FClearSight%2CVisualTechStudio%2FROG-B550-A-Gaming-OpenCore-EFI&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=VisualTechStudio/VTStudioToolBox%2CVisualTechStudio/ClearSight%2CVisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=VisualTechStudio/VTStudioToolBox%2CVisualTechStudio/ClearSight%2CVisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=VisualTechStudio/VTStudioToolBox%2CVisualTechStudio/ClearSight%2CVisualTechStudio/ROG-B550-A-Gaming-OpenCore-EFI&type=date&legend=top-left" />
+ </picture>
+</a>
 
 </div>
