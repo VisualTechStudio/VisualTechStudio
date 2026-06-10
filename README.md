@@ -1,4 +1,3 @@
-![](https://github-readme-stats.vercel.app/api?username=VTStudio&show_icons=true&theme=transparent)
 <div align="center">
 
 # 👋 Hello! We are VisualTechStudio
